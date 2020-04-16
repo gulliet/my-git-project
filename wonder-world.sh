@@ -1,3 +1,3 @@
 #!/bin/bash
-MSG="This is a wonderful world, isn't it?"
+MSG="${nickname}, this is a wonderful world, isn't it?"
 echo "$MSG"
